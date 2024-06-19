@@ -1,0 +1,17 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "* Those which are already come with node js core is called **MODULE** \r * Those which are installed using npm is called **PACKAGE**",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "something": "echo \"This is for the demonstration of run command\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
+}
