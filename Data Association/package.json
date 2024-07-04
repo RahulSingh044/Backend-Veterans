@@ -1,0 +1,16 @@
+{
+  "name": "data-association",
+  "version": "1.0.0",
+  "description": "It means interconnecting data that are related to each other i.e. a company sell goods at Amazon and each goods have a unique id, to determine which goods is associated to which company we simply store the good's id in the company by the name of products.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.4"
+  }
+}
